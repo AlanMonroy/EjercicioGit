@@ -1,0 +1,1 @@
+print("2. Todos somos programadores")

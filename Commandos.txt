@@ -1,0 +1,8 @@
+git init                                       Para iniciar git
+git status -s                                  para checar status de los archivos
+git add "Nombre de archivo"                    para agregar archivo
+git add .                                      agregar todos los archivos al repositorio
+git commit -m "Descripcion de la copia"        para ejecutar un guardado
+git commit -am "Descripcion de la copia"       para agregar y guardar al mismo tiempo
+git log --online                               copias guardadas
+git reset --hard "codigo de la copia"          resetea el archivo a una copia
